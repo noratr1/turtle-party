@@ -1,4 +1,4 @@
-# turtle-party: Turtle Party Project!
+# Turtle Party Project!
 Fun with turtle functions!
 by Nora Rosas
 
